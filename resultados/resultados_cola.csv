@@ -1,0 +1,8 @@
+estructura,tamano,enqueue,dequeue,front,isEmpty,size,delete
+ColaArregloCircular,10,3600,2700,5400,1300,1400,6600
+ColaArregloCircular,100,1200,600,300,100,100,4600
+ColaArregloCircular,1000,600,500,200,100,200,40200
+ColaArregloCircular,10000,400,900,200,400,600,389800
+ColaArregloCircular,100000,1400,3600,1900,800,1100,2855200
+ColaArregloCircular,1000000,2900,5700,2900,8400,2200,6594600
+ColaArregloCircular,10000000,2700,6800,4600,3800,2700,36410700
